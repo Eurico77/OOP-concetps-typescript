@@ -1,0 +1,8 @@
+{
+  "name": "OOP-concepts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Eurico77/OOP-concetps-typescript.git",
+  "author": "eurico77 <euricomagalhaes61@gmail.com>",
+  "license": "MIT"
+}
