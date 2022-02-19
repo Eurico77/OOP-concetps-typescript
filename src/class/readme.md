@@ -66,3 +66,12 @@
   }
 ```
 - protected dara acesso ao atributos e métodos da classe e aos filhos
+
+
+
+* ## HERANÇA
+
+  *herança é a capacidade de uma classe herdar atributos e métodos de outra classe***
+
+- toda herança é definida com a palavra-chave `extends`
+- a herança faz com que a subclasse se torne um objeto do tipo ```É UM```
